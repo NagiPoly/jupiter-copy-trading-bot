@@ -35,3 +35,4 @@ This bot is an advanced copytrading bot that monitors seamlessly the tracks of w
 #### Hash Bot Private
 - Hash Private key with 2 variable which is stored in db and local file
 - Event if DB or file hacked , hacking is impossible to this bot
+ 
